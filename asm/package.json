@@ -1,0 +1,12 @@
+{
+  "name": "hack_assembler",
+  "version": "1.0.0",
+  "description": "Proj:6 Assembler for hack programs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mahid",
+  "license": "ISC"
+}
